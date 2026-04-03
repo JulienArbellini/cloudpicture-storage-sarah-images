@@ -2,8 +2,54 @@
   "version": 1,
   "repo": "cloudpicture-storage-sarah-images",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-03T01:04:21.050Z",
+  "updatedAt": "2026-04-03T13:33:52.019Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-sarah-images:uploads/20260403133351-b7e95f05-capture-d-ecran-2026-04-03-a-15-33-10.webp",
+      "repoName": "cloudpicture-storage-sarah-images",
+      "repoVisibility": "public",
+      "fileName": "20260403133351-b7e95f05-capture-d-ecran-2026-04-03-a-15-33-10.webp",
+      "originalName": "Capture d’écran 2026-04-03 à 15.33.10.webp",
+      "path": "uploads/20260403133351-b7e95f05-capture-d-ecran-2026-04-03-a-15-33-10.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 22528,
+      "width": 424,
+      "height": 448,
+      "createdAt": "2026-04-03T13:33:51.400Z",
+      "updatedAt": "2026-04-03T13:33:51.400Z",
+      "tags": [
+        "cloudpicture-storage-sarah-images"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah-images/main/uploads/20260403133351-b7e95f05-capture-d-ecran-2026-04-03-a-15-33-10.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah-images@main/uploads/20260403133351-b7e95f05-capture-d-ecran-2026-04-03-a-15-33-10.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah-images/blob/main/uploads/20260403133351-b7e95f05-capture-d-ecran-2026-04-03-a-15-33-10.webp"
+      }
+    },
+    {
+      "id": "cloudpicture-storage-sarah-images:uploads/20260403133350-3cbecd75-capture-d-ecran-2026-04-03-a-15-32-53.webp",
+      "repoName": "cloudpicture-storage-sarah-images",
+      "repoVisibility": "public",
+      "fileName": "20260403133350-3cbecd75-capture-d-ecran-2026-04-03-a-15-32-53.webp",
+      "originalName": "Capture d’écran 2026-04-03 à 15.32.53.webp",
+      "path": "uploads/20260403133350-3cbecd75-capture-d-ecran-2026-04-03-a-15-32-53.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 29634,
+      "width": 470,
+      "height": 470,
+      "createdAt": "2026-04-03T13:33:50.588Z",
+      "updatedAt": "2026-04-03T13:33:50.588Z",
+      "tags": [
+        "cloudpicture-storage-sarah-images"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah-images/main/uploads/20260403133350-3cbecd75-capture-d-ecran-2026-04-03-a-15-32-53.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah-images@main/uploads/20260403133350-3cbecd75-capture-d-ecran-2026-04-03-a-15-32-53.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah-images/blob/main/uploads/20260403133350-3cbecd75-capture-d-ecran-2026-04-03-a-15-32-53.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-sarah-images:uploads/fixe/20260403010420-5af3dc6c-capture-d-ecran-2026-04-03-a-03-04-06.webp",
       "repoName": "cloudpicture-storage-sarah-images",
@@ -52,6 +98,7 @@
     }
   ],
   "folders": [
+    "uploads",
     "uploads/fixe"
   ]
 }
