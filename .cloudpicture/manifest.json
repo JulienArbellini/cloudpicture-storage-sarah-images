@@ -2,8 +2,31 @@
   "version": 1,
   "repo": "cloudpicture-storage-sarah-images",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-10T14:34:52.118Z",
+  "updatedAt": "2026-04-10T15:13:16.107Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-sarah-images:uploads/20260410151315-67c413ef-bol-en-ceramique-aux-pieds-textures.webp",
+      "repoName": "cloudpicture-storage-sarah-images",
+      "repoVisibility": "public",
+      "fileName": "20260410151315-67c413ef-bol-en-ceramique-aux-pieds-textures.webp",
+      "originalName": "Bol en céramique aux pieds texturés.webp",
+      "path": "uploads/20260410151315-67c413ef-bol-en-ceramique-aux-pieds-textures.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 144970,
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-10T15:13:15.465Z",
+      "updatedAt": "2026-04-10T15:13:15.465Z",
+      "tags": [
+        "cloudpicture-storage-sarah-images"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah-images/main/uploads/20260410151315-67c413ef-bol-en-ceramique-aux-pieds-textures.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah-images@main/uploads/20260410151315-67c413ef-bol-en-ceramique-aux-pieds-textures.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah-images/blob/main/uploads/20260410151315-67c413ef-bol-en-ceramique-aux-pieds-textures.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-sarah-images:uploads/20260410143451-ebc3845f-bol-en-ceramique-artisanale-elegante.webp",
       "repoName": "cloudpicture-storage-sarah-images",
