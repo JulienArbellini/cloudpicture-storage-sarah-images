@@ -2,8 +2,31 @@
   "version": 1,
   "repo": "cloudpicture-storage-sarah-images",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-10T15:13:16.107Z",
+  "updatedAt": "2026-04-10T15:30:47.574Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-sarah-images:uploads/20260410153046-130a89fc-chatgpt-image-10-avr-2026-17-29-20.webp",
+      "repoName": "cloudpicture-storage-sarah-images",
+      "repoVisibility": "public",
+      "fileName": "20260410153046-130a89fc-chatgpt-image-10-avr-2026-17-29-20.webp",
+      "originalName": "ChatGPT Image 10 avr. 2026, 17_29_20.webp",
+      "path": "uploads/20260410153046-130a89fc-chatgpt-image-10-avr-2026-17-29-20.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 118044,
+      "width": 1409,
+      "height": 901,
+      "createdAt": "2026-04-10T15:30:46.994Z",
+      "updatedAt": "2026-04-10T15:30:46.994Z",
+      "tags": [
+        "cloudpicture-storage-sarah-images"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah-images/main/uploads/20260410153046-130a89fc-chatgpt-image-10-avr-2026-17-29-20.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah-images@main/uploads/20260410153046-130a89fc-chatgpt-image-10-avr-2026-17-29-20.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah-images/blob/main/uploads/20260410153046-130a89fc-chatgpt-image-10-avr-2026-17-29-20.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-sarah-images:uploads/20260410151315-67c413ef-bol-en-ceramique-aux-pieds-textures.webp",
       "repoName": "cloudpicture-storage-sarah-images",
