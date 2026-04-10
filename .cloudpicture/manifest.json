@@ -2,8 +2,31 @@
   "version": 1,
   "repo": "cloudpicture-storage-sarah-images",
   "owner": "JulienArbellini",
-  "updatedAt": "2026-04-10T13:38:14.109Z",
+  "updatedAt": "2026-04-10T13:46:11.204Z",
   "assets": [
+    {
+      "id": "cloudpicture-storage-sarah-images:uploads/20260410134610-d787a8fb-bol-en-ceramique-artisanale-elegante.webp",
+      "repoName": "cloudpicture-storage-sarah-images",
+      "repoVisibility": "public",
+      "fileName": "20260410134610-d787a8fb-bol-en-ceramique-artisanale-elegante.webp",
+      "originalName": "Bol en céramique artisanale élégante.webp",
+      "path": "uploads/20260410134610-d787a8fb-bol-en-ceramique-artisanale-elegante.webp",
+      "mimeType": "image/webp",
+      "extension": "webp",
+      "sizeBytes": 181196,
+      "width": 1536,
+      "height": 1024,
+      "createdAt": "2026-04-10T13:46:10.547Z",
+      "updatedAt": "2026-04-10T13:46:10.547Z",
+      "tags": [
+        "cloudpicture-storage-sarah-images"
+      ],
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/JulienArbellini/cloudpicture-storage-sarah-images/main/uploads/20260410134610-d787a8fb-bol-en-ceramique-artisanale-elegante.webp",
+        "jsdelivr": "https://cdn.jsdelivr.net/gh/JulienArbellini/cloudpicture-storage-sarah-images@main/uploads/20260410134610-d787a8fb-bol-en-ceramique-artisanale-elegante.webp",
+        "html": "https://github.com/JulienArbellini/cloudpicture-storage-sarah-images/blob/main/uploads/20260410134610-d787a8fb-bol-en-ceramique-artisanale-elegante.webp"
+      }
+    },
     {
       "id": "cloudpicture-storage-sarah-images:uploads/20260410133813-8a618fa2-ambiance-tamisee-et-lumiere-douce.webp",
       "repoName": "cloudpicture-storage-sarah-images",
